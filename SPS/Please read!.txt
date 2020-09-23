@@ -1,0 +1,21 @@
+To run the system pleas follow the steps below:
+1.  Opent the control panel then open administrative tool
+2.  Open Data Sources (ODBC)
+3.  Click System DSN
+4.  Click Add Button
+5.  From the Create New Data Source dialog box, find "Microsoft Access Driver (*.mdb)
+6.  Click Finish
+7.  From the ODBC MIcrosoft Access dialog box, type the name CSMS/click select button then find
+    the database, located in the database folder named CSMS.mdb, then click open.
+8.  Click OK twice.
+9.  Load the SPSSMS
+    
+    users:
+    admin - password = spsormoc
+    sps - sps
+    clerk - clerk
+
+I'm currently working on this registration system inteded for the school use.
+Your suggestion are very much welcome.
+
+Thanks to Philip Naparan. I got some the ideas from his CSRS.
